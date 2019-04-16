@@ -52,6 +52,8 @@
 - 直方图与qq图  
 - 盒图  
 
+<img src="img/dataset1.png" width="40%"> <img src="img/dataset2.png" width="44%">
+
 ## 作业二：关联规则挖掘
 
 **作业报告**：[Homework2.ipynb](Homework2.ipynb)
@@ -82,4 +84,4 @@
   * Lift指标
   * Conviction指标
 
-[rules.png](img/rules.png)
+![rules.png](img/rules.png)
