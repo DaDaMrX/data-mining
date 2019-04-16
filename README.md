@@ -81,3 +81,5 @@
 ### 4. 评价关联规则
   * Lift指标
   * Conviction指标
+
+[rules.png](img/rules.png)
